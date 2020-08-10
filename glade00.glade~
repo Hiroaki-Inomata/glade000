@@ -31,7 +31,7 @@
                 <property name="layout_style">start</property>
                 <child>
                   <object class="GtkButton">
-                    <property name="label">01 医療事務</property>
+                    <property name="label">01 iryoujimu</property>
                     <property name="visible">True</property>
                     <property name="can_focus">True</property>
                     <property name="receives_default">True</property>
@@ -44,7 +44,7 @@
                 </child>
                 <child>
                   <object class="GtkButton">
-                    <property name="label" translatable="yes">03 プログラム更新</property>
+                    <property name="label" translatable="yes">03 program update</property>
                     <property name="visible">True</property>
                     <property name="can_focus">True</property>
                     <property name="receives_default">True</property>
